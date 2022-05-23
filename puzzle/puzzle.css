@@ -1,0 +1,31 @@
+html, body {
+ margin: 0;
+ padding: 0;
+ }
+
+ #container {
+ width: 1000px;
+ }
+ #originalpuzzle img {
+ position:relative;
+ margin: 20px 25px 25px 20px;
+ }
+
+ #firstpiece img {
+margin: 25px 2500px 0px 20px;
+ }
+ #secondpiece img
+{
+margin: -331px 250px 505px 280px;
+}
+ #thirdpiece img
+{
+margin: -837.9px 2500px 0px 606px;}
+ 
+ #fourthpiece 
+{
+margin: -506px 2500px 0px 20px; 
+}
+ #fifthpiece {
+margin: -240px 2500px 0px 371px;
+ } 
